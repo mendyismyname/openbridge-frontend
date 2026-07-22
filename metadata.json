@@ -1,0 +1,6 @@
+{
+  "name": "verrazano Workspace",
+  "description": "A minimal, highly functional dashboard and workspace for your personal verrazano agent. Track ongoing projects, terminal setup, synced devices, and mirrored ChatGPT interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
